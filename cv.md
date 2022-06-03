@@ -1,14 +1,3 @@
-"[css]"
-body {
-color:#E2A126!important;
-text-shadow: 1px 0 1px #000, 
-0 1px 1px #000, 
--1px 0 1px #000, 
-0 -1px 1px #000;
-   background-image: url(https://i.artfile.me/wallpaper/22-02-2017/1920x1080/priroda-dorogi-doroga-tuman-derevya-les-1133132.jpg);
-   
-}
-
 # Daniil Zobau
 
 This is my first CV in the world
